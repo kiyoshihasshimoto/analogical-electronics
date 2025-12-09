@@ -2,7 +2,7 @@
 
 Se lembra daquele circuito simples que mostrei anteriormente? Aqui vão algumas coisas que são importantes saber!
 
-[Circuito](/attachments/Circuito%20LED.png)
+![Circuito](/attachments/Circuito%20LED.png)
 
 Dentro desse circuito, podemos ver algumas informações e também fornecer outras.
 
@@ -16,7 +16,7 @@ Dentro desse circuito, podemos ver algumas informações e também fornecer outr
 
 3. O resistor será utilizado para resistir a corrente elétrica do circuito (Medido em Ohms $\Omega$), que, como citado anteriormente, será utilizado para não queimar o LED.
 
-4. E por fim, os fios semicondutores, que são utilizados para fechar o circuito, criando um loop da movimentação dos elétrons.
+4. E por fim, os fios condutores, que são utilizados para fechar o circuito, criando um loop da movimentação dos elétrons.
 
 ## Como tudo isso se relaciona?
 
@@ -47,3 +47,16 @@ Isso significa que a tensão é igual a resistencia vezes a corrente.
 Relacionando-os, podemos dizer que quanto maior a tensão, maior será a corrente e quanto maior a resistencia, menor será a corrente. Assim como podemos descobrir a resistência necessária para entregar a corrente necessária para um componente qualquer.
 
 $I=\frac{V}{R}$ também $R=\frac{V}{I}$
+
+
+## Potência elétrica
+
+A potência elétrica é utilizada para nos informar o quanto de energia pode ser transformada por um equipamento eletrônico. Isso se dá por:
+
+$P = V \times I$
+
+Onde P é medido em W (Watts). Onde, quanto maior a potência, maior o consumo de energia. Logo, se um equipamento tem potência de 50W, ele consegue transformar 50W de energia, então, é necessário alimenta-lo com energia o suficiente para suprir essa demanda.
+
+## Conclusão
+
+Com tudo isso em mãos, pode-se obter todos os dados necessários para se construir um circuito completo. A partir disso, apenas escolher os componentes certos, suprir suas demandas e adaptar a tensão e corrente da forma desejada.
