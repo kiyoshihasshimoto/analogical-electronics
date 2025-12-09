@@ -8,8 +8,8 @@ Então, para começar, deve-se ter noção de alguns conceitos e como eles funci
 
 ## Conceitos básicos
 
-[1^]: ![Circuito](/attachments/GIF%20LED.gif)
-[1^]: ![Circuito2](/attachments/Circuito%20LED.png)
+![Circuito](/attachments/GIF%20LED.gif)
+![Circuito2](/attachments/Circuito%20LED.png)
 
 No circuito acima podemos ver algumas coisas acontecendo, além dos componentes ali instalados.
 
