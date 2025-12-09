@@ -6,12 +6,16 @@ Isso tudo é necessário para que, ao desenvolver um sistema, todo o sinal elét
 
 Então, para começar, deve-se ter noção de alguns conceitos e como eles funcionam na prática, tanto em simulações, quanto na vida real.
 
+---
+
 ## Conceitos básicos
 
-![Circuito](/attachments/GIF%20LED.gif)
-![Circuito2](/attachments/Circuito%20LED.png)
+[1^]: ![Circuito](/attachments/GIF%20LED.gif)
+[1^]: ![Circuito2](/attachments/Circuito%20LED.png)
 
 No circuito acima podemos ver algumas coisas acontecendo, além dos componentes ali instalados.
+
+---
 
 ### Eletrecidade
 
@@ -29,12 +33,19 @@ Porém, para que haja essa movimentação, é necessário algumas coisas ***obri
 2. Diferença de potêncial.
 
 É necessário um circuito fechado para que a eletrecidade consiga se mover, ou seja, se apenas um pequeno ponto, não houver contato, ***não haverá eletrecidade***.
-[Dica]
+
 > Para uma explicação completa sobre a movimentação dos elétrons, [acesse esse documento](/beggining/subfiles/electricitymovement.md). Porém, recomendo que tenha ciência do conceito da eletrecidade de forma mais geral, ou seja, siga até o final desse documento para acessar este. 
 
-Além da eletrecidade, é necessário uma diferença de potêncial, que significa a diferença da quantidade de elétrons entre os dois pontos do circuito.
+Além da eletrecidade, também é estritamente necessário uma ***diferença de potêncial***, que significa a ***diferença da quantidade de elétrons*** entre os dois pontos do circuito. É isso que irá fazer com que os elétrons se movam.
 
-[Importante]
 > Nos é ensinado que os elétrons se movem do ***lado positivo para o negativo***, mas conhecido como ***sentido convencional***. Porém, os elétrons se movem do ***lado negativo para o positivo***, conhecido como ***sentido real***.
+
+Além disso, dentro do circuito, existe um LED vermelho, que irá "gastar" essa energia, no caso, é oque queremos obter com ela (Isso é chamado de Output).
+
+> Ao dizer: "gastar energia"... não significa que ela some, porém, o LED utiliza a movimentação dos elétrons que passam por ele e transformam-os em energia luminosa.
+ - Por enquanto, irei retratar dessa forma os LEDS, porém, eles funcionam de forma bem mais específica. [Confira](/beggining/subfiles/componentsbehavior.md).
+
+ E também, por fim, temos um resistor, que irá **limitar a corrente elétrica** que irá passar não apenas pelo LED, mas pelo circuito inteiro.
+ > O resistor irá limitar a corrente, pois o LED tem um limite de corrente, caso ultrapasse, ele superaquece e acaba queimando.
 
 [Continuação...](/beggining/subfiles/analogicalelectricity2.md)
