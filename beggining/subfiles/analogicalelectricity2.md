@@ -29,7 +29,7 @@ A corrente elétrica é medida em Amperes, que é a mesma coisa que coulomb por 
 
 > Essa carga carrega consigo energia potencial elétrica transportada pelos elétrons através da corrente elétrica, a mesma energia que geram os outputs.
 
-> Então para não ficar como: $6,24 \times 10^18$ elétrons por segundo, apenas dizemos 1 Ampér.
+> Então para não ficar como: $6,24 \times 10^{18}$ elétrons por segundo, apenas dizemos 1 Ampér.
 
 > Não irei entrar em muitos detalhes em relação a isso, pois se trata de um estudo de um outro ramo. Mas resumidamente, seria isso.
 
