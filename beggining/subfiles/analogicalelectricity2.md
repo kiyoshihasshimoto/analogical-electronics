@@ -58,4 +58,4 @@ Onde P é medido em W (Watts). Onde, ***quanto maior a potência, maior o consum
 
 ## Conclusão
 
-Com tudo isso em mãos, pode-se obter todos os dados necessários para se construir um circuito completo. A partir disso, apenas escolher os componentes certos, suprir suas demandas e adaptar a tensão e corrente da forma desejada.
+Com tudo isso em mãos, pode-se obter todos os dados necessários para se construir um circuito completo, logo, é necessário apenas escolher os componentes certos, suprir suas demandas e adaptar a tensão e corrente da forma desejada.
