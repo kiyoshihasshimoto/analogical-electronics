@@ -21,7 +21,8 @@ Mas...
 
 ## O que é a eletrecidade?
 
-A eletrecidade não é nada mais que a <ins>movimentação dos elétrons</ins>, não é algo que podemos ver, nem sentir, nem tocar, mas sim, apenas perceber **oque ela pode fazer**, como acender uma lâmpada, por exemplo.
+A eletrecidade não é nada mais que a <ins>energia potencial elétrica</ins> que surge a partir da movimentação dos elétrons. Não é algo que podemos ver, nem sentir, nem tocar, mas sim, apenas perceber **oque ela pode fazer**, como acender uma lâmpada, por exemplo, que pode ser dita, fisicamente, que transforma a energia potencial elétrica em energia luminosa, ou térmica, assim vai.
+> Para um estudo mais abrangente da eletrecidade, acesse esse documento, que se trata propriamente da [eletrodinâmica](/beggining/subfiles/eletrodinamics.md), que seria o estudo da física em cima da eletrecidade.
 
 Porém, para que haja essa movimentação, é necessário algumas coisas ***obrigatórias***:
 
@@ -30,7 +31,7 @@ Porém, para que haja essa movimentação, é necessário algumas coisas ***obri
 
 É necessário um circuito fechado para que a eletrecidade consiga se mover, ou seja, se apenas um pequeno ponto, não houver contato, ***não haverá eletrecidade***.
 
-> Para uma explicação completa sobre a movimentação dos elétrons, [acesse esse documento](/beggining/subfiles/electricitymovement.md). Porém, recomendo que tenha ciência do conceito da eletrecidade de forma mais geral, ou seja, siga até o final desse documento antes de acessa-lo. 
+> Para uma explicação completa sobre a movimentação dos elétrons, acesse o mesmo documento citado acima. Porém, recomendo que tenha ciência do conceito da eletrecidade de forma mais geral, ou seja, siga até o final desse documento antes de acessa-lo.
 
 Além da eletrecidade, também é estritamente necessário uma ***diferença de potêncial***, que significa a ***diferença da quantidade de elétrons*** entre os dois pontos do circuito. É isso que irá fazer com que os elétrons se movam.
 
@@ -38,7 +39,7 @@ Além da eletrecidade, também é estritamente necessário uma ***diferença de 
 
 Além disso, dentro do circuito, existe um LED vermelho, que irá "gastar" essa energia, no caso, é oque queremos obter com ela (Isso é chamado de Output).
 
-> Ao dizer: "gastar energia"... não significa que ela some, porém, o LED utiliza a movimentação dos elétrons que passam por ele e transformam-os em energia luminosa.
+> Ao dizer: "gastar energia"... não significa que ela some, porém, o LED utiliza a energia potencial elétrica que passam por ele e a transforma em energia luminosa.
  - Por enquanto, irei retratar os LEDS dessa forma, porém, eles funcionam de forma bem mais específica. [Confira](/beggining/subfiles/componentsbehavior.md).
 
  E também, por fim, temos um resistor, que irá **limitar a corrente elétrica** que irá passar não apenas pelo LED, mas pelo circuito inteiro.

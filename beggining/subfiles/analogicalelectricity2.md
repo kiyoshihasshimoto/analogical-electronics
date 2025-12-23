@@ -25,15 +25,7 @@ Ao causar a **ddp**, os elétrons irão automaticamente se mover. Esse movimento
 
 A corrente elétrica é medida em Amperes, que é a mesma coisa que coulomb por segundo. Coulomb se refere à quantidade de elétrons, que, no fim, significa que ali passam uma certa quantidade de elétrons por segundo.
 
-> Também pode se referir em carga elétrica, mas decidi colocar em elétrons para ficar mais fácil para entender. Mas, apenas para esclarecer: Um único elétron possui uma quantidade de carga, que é a menor quantidade de carga que existe no universo, que são dos elétrons (também nos prótons). 
-
-> Essa carga carrega consigo energia potencial elétrica transportada pelos elétrons através da corrente elétrica, a mesma energia que geram os outputs.
-
-> Então para não ficar como: $6,24 \times 10^{18}$ elétrons por segundo, apenas dizemos 1 Ampér.
-
-> Não irei entrar em muitos detalhes em relação a isso, pois se trata de um estudo de um outro ramo. Mas resumidamente, seria isso.
-
-Concluindo, pode-se dizer que a eletrecidade é surge a partir da movimentação dos elétrons, que carregam consigo suas respectivas cargas, que contém consigo energia potêncial elétrica
+Concluindo, pode-se dizer que a eletrecidade é surge a partir da movimentação dos elétrons, que contém consigo energia potêncial elétrica.
 
 ## Relacionando todos esses elementos
 
