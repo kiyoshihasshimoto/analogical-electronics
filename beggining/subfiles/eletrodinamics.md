@@ -39,4 +39,13 @@ Se aproveitarmos essa lógica, podemos utilizar algo chamado **Diferença de Pot
 
 > Observação: A natureza visa sempre equilibrar tudo, inclusive a quantidade de carga entre dois pontos (A quantidade de energia potencial elétrica entre dois pontos, se preferir). Porém, tentamos evitar esse equilíbro para utilizar bastante energia desse fenômeno. Por isso, utilizamos baterias, que tem uma engenharia que tenta atrasar esse equilíbrio e mantém ao máximo a DDP.
 
-> O trabalho se trata de quanta energia é necessária para mover algo pelo espaço. E sim, ela pode ser utilizada com particulas elementares.
+> O trabalho se trata de quanta energia é necessária para mover algo pelo espaço.
+
+## Outras observações
+
+A eletricidade é quando o trabalho realizado pelo campo elétrico para movimentar todos os elétrons pelo circuito é transformado na energia que queremos.
+> Sonora, luminosa, térmica, etc...
+
+# Conclusão
+
+Nós nos apropriamos desse comportamento dentro da natureza para utilizar dentro da tecnologia.
