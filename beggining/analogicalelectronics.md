@@ -1,8 +1,6 @@
 # Introdução
 
-A eletrônica analógica é muito importante para o desenvolvimento de um equipamento. É aqui que iremos preparar o terreno da energia elétrica que iremos utilizar... tratando a tensão, limitando a corrente, limpando os ruídos e imperfeições da energia, bloqueando partes do circuito e muito mais.
-
-Isso tudo é necessário para que, ao desenvolver um sistema, todo o sinal elétrico que for enviado **deve estar limpo**, sem oscilações e enviando a energia necessária para que evite falhas na geração do resultado desejado.
+A eletrônica analógica é muito importante para o desenvolvimento de um equipamento. É aqui que iremos preparar o terreno para que o sistema funcione corretamente... tratando a tensão, limitando a corrente, limpando os ruídos e imperfeições da energia, bloqueando partes do circuito e muito mais.
 
 Então, para começar, deve-se ter noção de alguns conceitos e como eles funcionam na prática, tanto em simulações, quanto na vida real.
 
@@ -13,27 +11,27 @@ Então, para começar, deve-se ter noção de alguns conceitos e como eles funci
 
 No circuito acima podemos ver algumas coisas acontecendo, além dos componentes ali instalados.
 
-## Eletrecidade
+## Eletricidade
 
-A eletrecidade é o elemento **mais importante** para se conhecer quando se trata de eletrônica, pois, sem ela, não à existiria como conhecemos, não é?
+A eletricidade é o elemento **mais importante** para se conhecer quando se trata de eletrônica, pois, sem ela, não existiria-à, não é?
 
 Mas...
 
-## O que é a eletrecidade?
+## O que é a eletricidade?
 
-A eletrecidade não é nada mais que a <ins>energia potencial elétrica</ins> que surge a partir da movimentação dos elétrons. Não é algo que podemos ver, nem sentir, nem tocar, mas sim, apenas perceber **oque ela pode fazer**, como acender uma lâmpada, por exemplo, que pode ser dita, fisicamente, que transforma a energia potencial elétrica em energia luminosa, ou térmica, assim vai.
-> Para um estudo mais abrangente da eletrecidade, acesse esse documento, que se trata propriamente da [eletrodinâmica](/beggining/subfiles/eletrodinamics.md), que seria o estudo da física em cima da eletrecidade.
+A eletricidade é um sistema completo que transporta energia, por exemplo: a <ins>energia potencial elétrica</ins> se transformando em energia útil. 
+> Para um estudo mais abrangente da eletricidade, acesse esse documento, que se trata propriamente da [eletrodinâmica](/beggining/subfiles/eletrodinamics.md), que seria o estudo da física em cima da eletricidade.
 
-Porém, para que haja essa movimentação, é necessário algumas coisas ***obrigatórias***:
+Porém, para que exista eletricidade, é necessário algumas coisas ***obrigatórias***:
 
 1. Circuito fechado;
 2. Diferença de potêncial.
 
-É necessário um circuito fechado para que a eletrecidade consiga se mover, ou seja, se apenas um pequeno ponto, não houver contato, ***não haverá eletrecidade***.
+É necessário um circuito fechado para que haja a movimentação dos elétrons, ou seja, se apenas um pequeno ponto, não houver contato, ***não haverá eletricidade***.
 
-> Para uma explicação completa sobre a movimentação dos elétrons, acesse o mesmo documento citado acima. Porém, recomendo que tenha ciência do conceito da eletrecidade de forma mais geral, ou seja, siga até o final desse documento antes de acessa-lo.
+> Para uma explicação completa sobre a movimentação dos elétrons, acesse o mesmo documento citado acima.
 
-Além da eletrecidade, também é estritamente necessário uma ***diferença de potêncial***, que significa a ***diferença da quantidade de elétrons*** entre os dois pontos do circuito. É isso que irá fazer com que os elétrons se movam.
+Além da eletricidade, também é estritamente necessário uma ***diferença de potêncial***, que significa a ***diferença da quantidade de elétrons*** entre os dois pontos do circuito. É isso que irá fazer com que os elétrons se movam.
 
 > Nos é ensinado que os elétrons se movem do ***lado positivo para o negativo***, mais conhecido como ***sentido convencional***. Porém, os elétrons se movem do ***lado negativo para o positivo***, conhecido como ***sentido real***.
 
@@ -42,7 +40,7 @@ Além disso, dentro do circuito, existe um LED vermelho, que irá "gastar" essa 
 > Ao dizer: "gastar energia"... não significa que ela some, porém, o LED utiliza a energia potencial elétrica que passam por ele e a transforma em energia luminosa.
  - Por enquanto, irei retratar os LEDS dessa forma, porém, eles funcionam de forma bem mais específica. [Confira](/beggining/subfiles/componentsbehavior.md).
 
- E também, por fim, temos um resistor, que irá **limitar a corrente elétrica** que irá passar não apenas pelo LED, mas pelo circuito inteiro.
+ E também, por fim, temos um resistor, que irá **limitar a corrente elétrica** não apenas pelo LED, mas pelo circuito inteiro.
 
  > O resistor irá limitar a corrente, pois o LED tem um limite de corrente, caso ultrapasse, ele superaquece e acaba queimando.
 
