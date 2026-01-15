@@ -16,7 +16,7 @@ Os isoladores são os materias contrários a isso. Materiais que dificultam o fl
 
 Mais específicamente, vamos imaginar duas camadas e um intermediador.
 
-[Teoria das bandas](/attachments/teoria%20das%20bandas.png)
+![Teoria das bandas](/attachments/teoria%20das%20bandas.png)
 
 Aqui vemos a **banda de valência** (a de baixo) e a **banda de condução** (a de cima) e seu intermediador no meio, chamado de **band gap**.
 
