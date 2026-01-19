@@ -42,11 +42,45 @@ Essa é a ideia dos semicondutores! <ins>***O controle do fluxo de elétrons***<
 
 Na eletrônica, barrar e permitir o fluxo de elétrons é oque cria os dispositivos eletrônicos.
 
-Porém, atualmente não utilizamos mais vácuo e sim materiais com características específicas que permitem um controle do fluxo de elétrons mais eficiênte. Onde o campo elétrico determina quem conduz e quando conduz (Vai ficar mais claro ao decorrer do documento).
+Porém, atualmente não utilizamos mais vácuo e sim materiais com características específicas que permitem um controle do fluxo de elétrons mais eficiênte. Onde o campo elétrico determina quem conduz e quando conduz (ao decorrer do documento isso ficará mais claro).
 
 Nesse caso, há materiais como o silício, que é um semicondutor muito utilizado.
 
 O seu diferencial é que ele é um ótimo isolante, porém, também é um ótimo condutor. Isso acontece por existir um band gap mais fraco, portanto, os elétrons conseguem passar entre a banda de valência e condução com facilidade.
+
+> Essa questão das bandas é apenas uma forma visual de representar essa ideia, porém, não existem essas bandas visualmente.
+
+# Dopagem
+
+A dopagem é uma forma de controlar ainda mais os semicondutores. O silício, por exemplo, é purificado ao máximo para que, depois, comece a ser adicionado algumas impurezas com características específicas.
+
+Um objeto feito de silício (14 elétrons, 14 prótons e 14 neutrons) puro tem ligações covalentes entre os átomos, que é a ligação feita por compartilhamento de elétrons.
+
+![Silício](/attachments/silício.png)
+
+![Silício](/attachments/silicio%202.png)
+
+![Silício](/attachments/Silício%201.png)
+
+Oque acontece aqui é:
+
+O silício tem 4 elétrons em sua camada de valência e consegue compartilhar elétrons com outro átomo de silício, criando assim, uma estrutura cristalina (estrutura molecular organizada).
+
+Aí que entra a dopagem:
+
+O silício em si tem uma estrutura certinha demais, sendo um pouco complicado faze-lo ser controlado. Então, adicionamos átomos diferentes como o fósforo que tem em si 1 elétron e 1 próton a mais que o silício.
+
+Então ali irá ter um elétron solto, que pode mover livremente entre os átomos de silício. A ideia é, se adicionado vários átomos de fósforo, irá haver milhares de elétrons livres, oque irá possibilitar um band gap mais baixo para que possa haver condução de eletricidade.
+
+Porém, se adicionado um átomo de boro, que há elétrons faltando, irá fazer com que os elétrons já existente preencham essas lacunas, fazendo com que haja um maior band gap.
+
+A ideia é:
+
+Qualquer átomo que tenha mais elétrons que o silício será chamado de dopagem do Tipo N
+
+Enquanto átomos que tenhma menos, serão chamados de dopagem de Tipo P
+
+Aqui pense não apenas em como dopar o material, porém, pense em como isso é feito para que você consiga fazer um material conduzir ou isolar na situação que você quer que isso aconteça, fazendo assim, um objeto capaz de se autocontrolar apenas com a eletricidade.
 
 # Fontes:
 
