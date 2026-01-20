@@ -29,7 +29,7 @@ Ou seja, dependendo da distancia entre cargas elétricas, elas podem interagir e
 
 Onde quero chegar aqui é mostrar que há uma outra força no universo, a ***força elétrica***, que procede do campo elétrico.
 
-![Campo Elétrico](/attachments/Campo%20Elétrico.gif)
+![Campo Elétrico](/attachments/Campo%20elétrico.png)
 
 ## Do campo ao movimento
 
