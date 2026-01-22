@@ -52,7 +52,7 @@ O seu diferencial é que ele é um ótimo isolante, porém, também é um ótimo
 
 # Dopagem
 
-A dopagem é uma forma de controlar ainda mais os semicondutores. O silício, por exemplo, é purificado ao máximo para que, depois, comece a ser adicionado algumas impurezas com características específicas.
+**A dopagem é uma forma de controlar ainda mais os semicondutores**. O silício, por exemplo, é purificado ao máximo para que, depois, comece a ser adicionado algumas impurezas com características específicas.
 
 Um objeto feito de silício puro(14 elétrons, 14 prótons e 14 neutrons) tem ligações covalentes entre os átomos, que é a ligação feita por compartilhamento de elétrons.
 
@@ -76,15 +76,15 @@ Porém, se adicionado um átomo de boro, que há elétrons faltando, irá fazer 
 
 A ideia é:
 
-Qualquer átomo que tenha mais elétrons que o silício será chamado de dopagem do Tipo N
+Qualquer átomo que tenha mais elétrons que o silício será chamado de dopagem do Tipo N.
 
-Enquanto átomos que tenhma menos, serão chamados de dopagem de Tipo P
+Enquanto átomos que tem menos, serão chamados de dopagem de Tipo P.
 
 Aqui pense não apenas em como dopar o material, porém, pense em como isso é feito para que você consiga fazer um material conduzir ou isolar na situação que você quer que isso aconteça, fazendo assim, um objeto capaz de se autocontrolar apenas com a eletricidade.
 
 # Conclusão
 
-Os materiais semicondutores são muito importantes na eletrônica, porém, ao saber controlar os band gaps utilizando dopagem, sairá dali os cérebros que controlam os computadores, máquinas, indústrias e muito mais.
+Os materiais semicondutores são muito importantes na eletrônica, principalmente ao saber controlar os band gaps utilizando dopagem, logo, saira dali os cérebros que controlam os computadores, máquinas, indústrias e muito mais.
 
 # Fontes:
 

@@ -16,6 +16,10 @@ Estou em um processo de aprendizagem para o desenvolvimento de Sistemas Embarcad
 1. [Introdução](/beggining/subfiles/eletrodinamics.md)
 > No primeiro capítulo você aprenderá sobre a física por trás de alguns conceitos básicos, como a voltagem e corrente elétrica.
 
+2. [Do papel pra realidade](/beggining/subfiles/componentsbehavior.md)
+> Aqui iremos entender como que tudo isso é aplicado na realidade!
+
+
 ---
 
 
@@ -24,3 +28,5 @@ Estou em um processo de aprendizagem para o desenvolvimento de Sistemas Embarcad
 [Canal que fala de eletrônica e alguns assuntos em específicos muito bem](https://www.youtube.com/@EngenhariaDetalhada)
 
 [Livro muito bom!](https://www.allaboutcircuits.com/textbook/)
+
+[vídeos interessantes por curiosidade](https://www.youtube.com/watch?v=QIi7HF_ss3E)
