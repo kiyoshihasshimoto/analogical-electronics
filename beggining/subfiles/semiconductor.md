@@ -91,6 +91,8 @@ Os materiais semicondutores são muito importantes na eletrônica, principalment
 [Semicondutores](https://www.youtube.com/watch?v=4S_3_krDPdM)
 [Semicondutores 2](https://www.youtube.com/watch?v=B8TdMFGTF4M)
 [Semicondutores 3](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-2/band-theory-of-solids/)
-
-
+[Semicondutores 4](https://www.youtube.com/watch?v=oC--fQr6ovM)
+[Semicondutores 5](https://www.youtube.com/watch?v=294T86wiM9U)
+[Semicondutores 6](https://www.youtube.com/watch?v=B8TdMFGTF4M)
+[Semicondutores 7](https://www.youtube.com/watch?v=-lHXZk5M6cI)
 

@@ -33,7 +33,7 @@ Onde quero chegar aqui é mostrar que há uma outra força no universo, a ***for
 
 ## Do campo ao movimento
 
-Se aproveitarmos essa lógica, podemos utilizar algo chamado **Diferença de Potencial Elétrico**... que nada mais é que a **diferença entre o potencial de energia elétrica de dois pontos** (Um sendo maior e o outro menor). Ao inserir isso em um circuito, será gerado um campo elétrico pelo circuito inteiro, que irá permitir com que os elétrons se movam de forma organizada, indo do ponto de maior para o de menor potencial.
+Se aproveitarmos essa lógica, podemos utilizar algo chamado **Diferença de Potencial Elétrico**, que nada mais é que a **diferença entre o potencial de energia elétrica de dois pontos** (Um sendo maior e o outro menor). Ao inserir isso em um circuito, será gerado um campo elétrico pelo circuito inteiro, que irá permitir com que os elétrons se movam de forma organizada, indo do ponto de maior para o de menor potencial.
 
 > Observação: A natureza visa sempre equilibrar tudo, inclusive a quantidade de carga entre dois pontos (A quantidade de energia potencial elétrica entre dois pontos, se preferir). Porém, tentamos evitar esse equilíbro para utilizar bastante energia desse fenômeno. Por isso, utilizamos baterias, que tem uma engenharia que tenta atrasar esse equilíbrio e mantém ao máximo a DDP.
 

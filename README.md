@@ -22,6 +22,15 @@ Estou em um processo de aprendizagem para o desenvolvimento de Sistemas Embarcad
 
 ---
 
+# Dicas
+
+> Para estudar essa documentação, não dependa apenas da leitura - procure por conta própria ou aproveite as fontes que deixei listadas ao fim de cada parte, para que você consiga entender de forma abrangente e tirar suas próprias conclusões e entendimentos.
+
+Antes de estudar esse documento, recomenda-se que saiba de alguns assuntos dentro da física:
+
+- Átomos, prótons, neutrons e elétrons, estruturas atômicas e moleculares.
+- Energia
+- 
 
 # Recomendações:
 
