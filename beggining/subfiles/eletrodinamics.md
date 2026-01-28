@@ -47,6 +47,8 @@ A transformação irá depender do equipamento. A lâmpada por exemplo utiliza f
 
 A eletricidade é no fim todo esse processo, desde os campos desorganizado dos elétrons até, no fim, a movimentação organizada das cargas ocorrida pela força do campo, surgido pela diferença de potencial.
 
+Outra observação curiosa é que a eletricidade segue o caminho mais fácil e mais curto, ou seja, se ouver outro caminho com menos resistencia elétrica (irá ser abordado futuramente) o campo elétrico será formado pelo mesmo e não pelo mais "difícil".
+
 # Conclusão
 
 Nós nos apropriamos desse comportamento dentro da natureza para utilizar dentro da tecnologia.

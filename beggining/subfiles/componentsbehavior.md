@@ -69,6 +69,10 @@ V = R \cdot I
 $$
 
 
+> Essa relação pode ser manipulada da forma que quiser.
+
+> Lembre-se que para obter os dados, você precisaria de pelo menos 2 deles, por exemplo: Precisaria da tensão e corrente para descobrir a resistencia do circuito.
+
 
 
 # Obrigatório assistir depois de um estudo aprofundado:
