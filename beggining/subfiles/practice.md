@@ -59,5 +59,5 @@ Utilizando a Lei de Ohm e aplicando os valores que temos do circuito obteremos a
 
 ## Desafio
 
-Monte um circuito com uma bateria de 9V e um resistor. Altere a resistência e veja a corrente do circuito mudar.    
+Monte um circuito com uma bateria de 9V e um resistor. Altere a resistência e veja a corrente do circuito mudar.
 
