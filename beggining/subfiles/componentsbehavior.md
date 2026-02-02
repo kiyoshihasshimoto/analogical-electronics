@@ -68,12 +68,15 @@ $$
 V = R \cdot I
 $$
 
+onde V é a tensão aplicada ao circuito, R sendo a resistividade e I, a corrente elétrica.
 
 > Essa relação pode ser manipulada da forma que quiser.
 
 > Lembre-se que para obter os dados, você precisaria de pelo menos 2 deles, por exemplo: Precisaria da tensão e corrente para descobrir a resistencia do circuito.
 
+Entre nesse tópico antes de partir para os próximos:
 
+[Colocando na prática](/beggining/subfiles/practice.md)
 
 # Obrigatório assistir depois de um estudo aprofundado:
 
