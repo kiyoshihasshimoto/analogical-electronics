@@ -14,7 +14,7 @@ Aqui vemos um multímetro que está medindo na escala de tensão elétrica cont�
 
 Resumindo, a tensão elétrica existe dentro do circuito caso aplicado uma **diferença de potêncial**.
 
-Diferença de potêncial seria ***um dos potênciais - outro potencial***.
+Diferença de potêncial seria ***um dos potênciais - (menos) outro potencial***.
 
 É uma comparação, não?
 
@@ -35,9 +35,9 @@ O mais importante é saber os encaixes das pontas.
 
 ## Corrente
 
-Para medição da corrente é diferente. Aqui teremos uma bateria de 1,5V e um resistor de 100ohms.
+Para medição da corrente é diferente. Aqui teremos uma bateria de 1,5V e um resistor de 100 ohms.
 
-[corrente elétrica](/attachments/corrente%20elétrica%20errada.png)
+![corrente elétrica](/attachments/corrente%20elétrica%20errada.png)
 
 Essa medição está errada, pois o multímetro permite que a corrente elétrica flua por si, e assim, mede-a. Porém ali está ignorando todo o circuito, onde a corrente sai do terminal positivo da bateria, entra no multímetro e vai para o terminal negativo da bateria, ignorando todo o resto.
 
@@ -47,7 +47,7 @@ Essa medição está errada, pois o multímetro permite que a corrente elétrica
 
 > Deve-se tomar cuidado porque se houver uma medição errada, o multímetro pode morrer.
 
-A lógica por trás da medição da corrente elétrica é deixar o multímetro fazer parte do circuito, oque fará com que haja a corrente elétrica real do circuito.
+A lógica por trás da medição da corrente elétrica é deixar o multímetro fazer parte do circuito, oque fará com que seja medida a corrente elétrica real do circuito.
 
 ![corrente elétrica](/attachments/corrente%20elétrica%20correto.png)
 
@@ -61,3 +61,12 @@ Utilizando a Lei de Ohm e aplicando os valores que temos do circuito obteremos a
 
 Monte um circuito com uma bateria de 9V e um resistor. Altere a resistência e veja a corrente do circuito mudar.
 
+# Tipos de circuito
+
+Apenas com o resistor, já é possível construir um circuito. Então, vamos dar uma olhada nos diferentes tipos.
+
+## Circuito em série
+
+O circuito em série é quando utilizamos diversos componentes um atrás do outro, sem dividir o circuito. Aqui em baixo vemos um exemplo: 
+
+![circuito em série](/attachments/Circuito%20em%20série.jpg)
